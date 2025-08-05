@@ -1,0 +1,2 @@
+# PRD
+Vibe coding guide
